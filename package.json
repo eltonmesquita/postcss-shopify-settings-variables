@@ -20,13 +20,13 @@
   },
   "homepage": "https://github.com/bit3725/postcss-shopify-settings-variables",
   "dependencies": {
-    "postcss": "^4.1.13"
+    "postcss": "^5.0.21"
   },
   "devDependencies": {
-    "chai": "^3.0.0",
-    "gulp": "^3.9.0",
-    "gulp-eslint": "^0.14.0",
-    "gulp-mocha": "^2.1.2"
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0"
   },
   "scripts": {
     "test": "gulp"
